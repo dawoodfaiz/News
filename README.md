@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [GitHub MarkDown](https://raw.githubusercontent.com/dawoodfaiz/You-Dont-Know-JS/2nd-ed/README.md)
 
 <a href="https://raw.githubusercontent.com/dawoodfaiz/You-Dont-Know-JS/2nd-ed/README.md">GitHub</a>
@@ -75,3 +76,4 @@ where
 
 
 
+=======
